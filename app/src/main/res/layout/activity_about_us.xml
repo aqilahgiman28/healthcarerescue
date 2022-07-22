@@ -54,20 +54,13 @@ Mobile applications nowadays, are much common and easier due to the increasing n
         app:srcCompat="@drawable/developers" />
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:fontFamily="@font/arima_madurai_bold"
-        android:text="Web Link"
-        tools:layout_editor_absoluteX="253dp"
-        tools:layout_editor_absoluteY="563dp" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:id="@+id/linkgit"
+        android:layout_width="372dp"
+        android:layout_height="33dp"
         android:fontFamily="sans-serif"
-        android:text="Web Link"
-        android:autoLink="web"
-        tools:layout_editor_absoluteX="253dp"
-        tools:layout_editor_absoluteY="593dp" />
+        android:textAlignment="center"
+        android:text="@string/hyperlink"
+        tools:layout_editor_absoluteX="23dp"
+        tools:layout_editor_absoluteY="300dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
