@@ -18,7 +18,7 @@
         android:theme="@style/Theme.healthcarerescue">
         <activity
             android:name=".SplashScreen"
-            :exported="true"
+            android:exported="true"
             android:theme="@style/SplashScreen"/>
         <activity
             android:name="com.example.healthcarerescure.AboutUs"
