@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "832797269577",
+    "project_id": "authproject-7a5bf",
+    "storage_bucket": "authproject-7a5bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832797269577:android:54b59ec91c389f292f6998",
+        "android_client_info": {
+          "package_name": "com.example.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832797269577-cgvmr1elt36rj5v473rdfev3nu96le4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxChpVaO1l2AxJRBzZtMRsF9dXocmU9Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832797269577-1k85r87oas033fdjoan77pksqej1kt0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832797269577:android:8102279f6d0ace802f6998",
+        "android_client_info": {
+          "package_name": "com.example.medicalmonitoringapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832797269577-cgvmr1elt36rj5v473rdfev3nu96le4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxChpVaO1l2AxJRBzZtMRsF9dXocmU9Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832797269577-1k85r87oas033fdjoan77pksqej1kt0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
